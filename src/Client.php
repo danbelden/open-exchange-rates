@@ -1,17 +1,7 @@
 <?php
 
-/**
- * [CLASS SHORT DESCRIPTION]
- *
- * @category   Symfony2
- * @package    REPLICADA
- * @author     Daniel Belden <me@danbelden.com>
- */
 namespace OpenExRt;
 
-/**
- *
- */
 class Client
 {
     // Client constants
@@ -20,7 +10,7 @@ class Client
     const API_FILE_CURRENCIES = 'currencies.json';
     const API_FOLDER_HISTORICAL = 'historical';
     const OPTION_APP_ID = 'appId';
-    
+
     /**
      * The App ID required to enable connectivity
      * @see https://openexchangerates.org/documentation#app-ids
@@ -30,7 +20,7 @@ class Client
 
     /**
      * Client constructor method to initialise the client
-     * 
+     *
      * @param array $options
      */
     public function __construct($options = array())
@@ -133,7 +123,7 @@ class Client
 
     /**
      * Helper method to perform a cURL request to the API for a given URL's data
-     * 
+     *
      * @param string $url
      * @return stdClass
      */
