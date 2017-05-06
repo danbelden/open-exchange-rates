@@ -1,6 +1,8 @@
 OpenExRt\Client
 ========
 
+[![Build Status](https://travis-ci.org/danbelden/open-exchange-rates.svg?branch=master)](https://travis-ci.org/danbelden/open-exchange-rates)
+
 A PHP 5, wrapper for the [openexchangerates.org](https://openexchangerates.org) API.
 
 # Usage

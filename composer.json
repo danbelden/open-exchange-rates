@@ -1,0 +1,17 @@
+{
+    "name": "danbelden/open-exchange-rates",
+    "description": "A PHP SDK to communicate with the open exchange rates APIs",
+    "authors": [
+        {
+            "name": "Dan Belden",
+            "email": "me@danbelden.com"
+        }
+    ],
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^5.1"
+    },
+    "autoload": {
+        "psr-4": {"OpenExRt\\": "src/"}
+    }
+}
