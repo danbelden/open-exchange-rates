@@ -13,5 +13,10 @@
     },
     "autoload": {
         "psr-4": {"OpenExRt\\": "src/"}
+    },
+    "config": {
+        "platform": {
+            "php": "5.3.3"
+        }
     }
 }
