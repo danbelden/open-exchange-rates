@@ -22,9 +22,8 @@ class ClientTest extends \PHPUnit_Framework_TestCase
 
     public function testConstructorOptions()
     {
-        $client = new Client([
-            Client::OPTION_APP_ID => 'Test'
-        ]);
+        $options = array(Client::OPTION_APP_ID => 'Test');
+        $client  = new Client($options);
 
         $this->assertEquals('Test', $client->getAppId());
     }
