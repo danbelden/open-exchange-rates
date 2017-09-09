@@ -2,6 +2,7 @@ OpenExRt\Client
 ========
 
 [![Build Status](https://travis-ci.org/danbelden/open-exchange-rates.svg?branch=master)](https://travis-ci.org/danbelden/open-exchange-rates)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/danbelden/open-exchange-rates/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/danbelden/open-exchange-rates/?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/danbelden/open-exchange-rates/version.svg)](https://packagist.org/packages/danbelden/open-exchange-rates)
 [![Total Downloads](https://poser.pugx.org/danbelden/open-exchange-rates/downloads.svg)](https://packagist.org/packages/danbelden/open-exchange-rates)
 
