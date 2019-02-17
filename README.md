@@ -3,10 +3,11 @@ OpenExRt\Client
 
 [![Build Status](https://travis-ci.org/danbelden/open-exchange-rates.svg?branch=master)](https://travis-ci.org/danbelden/open-exchange-rates)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/danbelden/open-exchange-rates/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/danbelden/open-exchange-rates/?branch=master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/5e7fc4fc1c3659fb3f39/maintainability)](https://codeclimate.com/github/danbelden/open-exchange-rates/maintainability)
 [![Latest Stable Version](https://poser.pugx.org/danbelden/open-exchange-rates/version.svg)](https://packagist.org/packages/danbelden/open-exchange-rates)
 [![Total Downloads](https://poser.pugx.org/danbelden/open-exchange-rates/downloads.svg)](https://packagist.org/packages/danbelden/open-exchange-rates)
 
-A PHP 5, wrapper for the [openexchangerates.org](https://openexchangerates.org) API.
+A PHP 5+, wrapper for the [openexchangerates.org](https://openexchangerates.org) API.
 
 # Requirements
 
