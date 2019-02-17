@@ -4,7 +4,8 @@
     "authors": [
         {
             "name": "Dan Belden",
-            "email": "me@danbelden.com"
+            "email": "me@danbelden.com",
+            "homepage": "https://github.com/danbelden"
         }
     ],
     "type": "library",
